@@ -1,0 +1,72 @@
+Single Play
+Multi Play
+Setting
+Exit
+BotDifficulty
+Volumn
+Language
+Window Size
+Back
+English
+Chinese
+4 Players
+3 Players
+2 Players
+Builder
+Councillor
+Producer
+Prospector
+Trader
+Aqueduct
+Archive
+BlackMarket
+Carpenter
+Chapel
+CoffeeRoaster
+Crane
+CityHall
+GuildHall
+GoldMine
+Hero
+IndigoPlant
+Library
+MarketStand
+MarketHall
+Prefecture
+PoorHouse
+Palace
+Quarry
+SilverSmelter
+SugarMill
+Status
+Smithy
+TobaccoStorage
+TradingPost
+TriumphalArch
+Tower
+VictoryColumn
+Well
+Present Phase: Trader
+Present Phase: Builder
+Present Phase: Prospector
+Present Phase: Councillor
+Present Phase: Round
+Present Phase: Discard Card
+Present Phase: Producer
+Present Phase: Choose Career
+Present Phase: Game End
+Present Phase: Choose Card
+OK
+Player %d build %s
+Player %d sell one cargo on %s
+Player %d produce a cargo on %s
+Player %d choose 1 card
+Player %d choose %s
+Player %d discard %d cards
+Player %d draw 1 card
+Game End, Winner is Player %d
+The governer is Player %d
+Player %d draw %d cards
+Yes
+No
+Do you want to use crane?
